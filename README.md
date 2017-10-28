@@ -20,4 +20,4 @@ Here is the link to Tableau: https://public.tableau.com/profile/tanushree3514#!/
 
 Google Slide Link: https://docs.google.com/a/scu.edu/presentation/d/1Olu510WOpzErWFK2VBcI0pE9NaYmkJoRZRk8r80GLDY/edit?usp=sharing
 
-Document explaining the metrics: https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/Why%20MSIS%20at%20SCU.docx
+Document explaining the metrics: https://github.com/Tanushreechaudhary/Lab_Session5/blob/master/Why%20MSIS%20at%20SCU.docx
